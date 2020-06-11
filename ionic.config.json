@@ -1,0 +1,7 @@
+{
+  "name": "floating-label-focus-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
